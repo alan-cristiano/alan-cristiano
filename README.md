@@ -34,4 +34,4 @@ Please get in touch via [Linkedin](https://www.linkedin.com/in/alan-cristiano/) 
 
 [LinkedIn](https://www.linkedin.com/in/alan-cristiano/)
 <br>
-[E-mail](mailto:)
+[E-mail](mailto:alan.cristiano.dev)

@@ -4,7 +4,7 @@ I'm a Full-Stack Developer based in São Paulo/Brazil. I have previous degree in
 
 Previously, I worked for almost 20 years as a technician and engineer developing solutions for the automation market, where I gained solid experience in project and client management, teamwork and problem solving.
 
-Please get in touch via [Linkedin](https://www.linkedin.com/in/alan-cristiano/) or [Email](mailto:).
+Please get in touch via [Linkedin](https://www.linkedin.com/in/alan-cristiano/) or [Email](mailto:alan.cristiano.dev@gmail.com).
 
 ## Technologies
 

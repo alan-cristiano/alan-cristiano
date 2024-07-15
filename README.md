@@ -30,6 +30,13 @@ Please get in touch via [Linkedin](https://www.linkedin.com/in/alan-cristiano/) 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
 </div>
 
+### DevOps
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50"/>
+</div>
+
 ## Contact me
 
 [LinkedIn](https://www.linkedin.com/in/alan-cristiano/)
